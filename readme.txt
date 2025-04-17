@@ -7,9 +7,9 @@ This project implements a basic command-line interpreter (shell) in C, named MY_
 
 Project Files
 ------------
-- prog01.c: Main source file containing the shell implementation.
-- prog01.h: Header file with structure definitions and function declarations.
-- prog01.makefile: Makefile for building the project.
+- my_shell.c: Main source file containing the shell implementation.
+- my_shell.h.h: Header file with structure definitions and function declarations.
+- my_shell.makefile: Makefile for building the project.
 - README.txt: This file, documenting the project and usage instructions.
 
 Features
@@ -95,13 +95,13 @@ Implementation Details
 
 GitHub Repository
 ----------------
-The project is hosted on GitHub: https://github.com/YOUR_USERNAME/MY_SHELL
-Replace YOUR_USERNAME with your GitHub username.
+The project is hosted on https://github.com/Charan04112000/MY_SHELL/edit/main/readme.txt#L10C8
+
 
 Deliverables
 ------------
-- Source files: `prog01.c`, `prog01.h`
-- Makefile: `prog01.makefile`
+- Source files: `my_shell.c`, `my_shell.h`
+- Makefile: `my_shell.makefile`
 - Documentation: `README.txt`
 - To create a tarball for submission:
   ```
